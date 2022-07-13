@@ -1,0 +1,77 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "タイプワン",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "name": "FieldIntent",
+          "slots": [],
+          "samples": [
+            "準備オッケー",
+            "いいよ"
+          ]
+        },
+        {
+          "name": "YesIntent",
+          "slots": [],
+          "samples": [
+            "知ってる"
+          ]
+        },
+        {
+          "name": "YestwoIntent",
+          "slots": [],
+          "samples": [
+            "ある"
+          ]
+        },
+        {
+          "name": "YesthreeIntent",
+          "slots": [],
+          "samples": [
+            "ない"
+          ]
+        },
+        {
+          "name": "NoIntent",
+          "slots": [],
+          "samples": [
+            "わからない"
+          ]
+        },
+        {
+          "name": "NotwoIntent",
+          "slots": [],
+          "samples": [
+            "はい"
+          ]
+        },
+        {
+          "name": "NothreeIntent",
+          "slots": [],
+          "samples": [
+            "いいえ"
+          ]
+        }
+      ],
+      "types": []
+    }
+  },
+  "version": "5"
+}
